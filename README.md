@@ -1,0 +1,1 @@
+Página destinada a aplicação do tutorial didático sobre PCA-DA dos espectros de infravermelho próximo, obtidos na etapa experimental. Contém as funções necessárias a serem executadas no software GNU OCTAVE versão 10.3.0.
